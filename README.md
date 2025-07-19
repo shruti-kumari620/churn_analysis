@@ -24,8 +24,7 @@ This project offers actionable insights and visualizations to help telecom provi
 
 Telecom-Customer-Churn-Analysis/
 ├── Telecon_churn.ipynb # Jupyter notebook with full analysis
-├── Teco Customer Churn Analysys.pdf # Executive summary and report
-├── data/ # (Not included here) Raw dataset
+├── Customer Churn/ #Raw dataset
 ├── README.md # This file
 
 
@@ -79,16 +78,3 @@ The notebook includes:
 
 ---
 
-## 📄 Report
-
-A full summary of insights and recommendations is available in this PDF:
-
-📁 [`Teco Customer Churn Analysys.pdf`](./Teco%20Customer%20Churn%20Analysys.pdf)
-
----
-
-## 🤝 Acknowledgements
-
-Thanks to open-source contributors and the Teco dataset for supporting this analysis.
-
----
